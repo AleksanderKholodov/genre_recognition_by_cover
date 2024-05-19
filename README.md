@@ -1,6 +1,8 @@
 # genre_recognition_by_cover
 Определение музыкального жанра по обложке альбома
 
+[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/tree/main/08_oil_production_region/08_oil_production_region.ipynb)
+
 Pet-проект, чтобы потренировать навыки, приобрести новые и нескучно провести время.
 
 Очевидно, что оформление музыкального альбома и жанр этого альбома связаны между собой. Насколько они связаны? Возможно ли по обожке определить жанр альбома?
