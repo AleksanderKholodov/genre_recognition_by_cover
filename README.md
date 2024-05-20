@@ -1,6 +1,7 @@
 # Определение музыкального жанра по обложке альбома
 
 [ipynb](https://github.com/AleksanderKholodov/genre_recognition_by_cover/blob/6effd32cf0cc677f67daf17ca22c5dbfb7afb46b/genre-recognition-with-fast-ai.ipynb)
+[kaggle](https://www.kaggle.com/code/aleksandrkholodov/genre-recognition-with-fast-ai)
 
 
 Pet-проект, чтобы потренировать навыки, приобрести новые и нескучно провести время.
